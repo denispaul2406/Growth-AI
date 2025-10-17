@@ -1,0 +1,12 @@
+date,campaign,platform,amount_spent,impressions,clicks,conversions,conversion_value
+2025-09-01,Meta Prospecting,meta,2500,120000,1800,45,9500
+2025-09-02,Meta Prospecting,meta,2400,118000,1750,44,9000
+2025-09-03,Meta Retargeting,meta,1800,60000,1600,80,14000
+2025-09-04,Google Search,google,2200,90000,2200,55,12000
+2025-09-05,Google Brand,google,1500,70000,2100,90,17000
+2025-09-06,Meta Prospecting,meta,2300,115000,1700,41,8800
+2025-09-07,Google Search,google,2100,88000,2150,50,11500
+2025-09-08,Meta Retargeting,meta,1700,58000,1500,78,13500
+2025-09-09,Google Brand,google,1600,71000,2050,92,17500
+2025-09-10,Meta Prospecting,meta,2000,110000,1600,38,8200
+
